@@ -5,6 +5,17 @@ The Travel Ghana website consists of a homepage which briefly introduces users t
 
 **INCLUDE MOCK UP IMAGE IF POSSIBLE**
 ## User Experience (UX)
+
+### User Stories
+
+#### Traveller to Ghana 
+- As a traveller to Ghana, I want to easily understand the purpose of the site from the front page.
+- As a traveller to Ghana, I want to be provided with information that will make my trip to Ghana enjoyable.
+- As a traveller to Ghana, I want to be provided with images that will entice me to want to visit certain location during my visit.
+- As a traveller to Ghana, I want to the website to provide me with contact details if I need further assistance.
+- As a traveller to Ghana, I want to see social media link attached to the website that will give me further information if needed.
+
+#### Ghanaian Residents 
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
